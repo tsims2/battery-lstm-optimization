@@ -23,8 +23,16 @@ The project leverages LSTM models for precise time-series forecasting and rule-b
 - **LSTM Model**: Used for forecasting customer load, system demand, daily dispatch schedule, and energy pricing.
 - **Rule-Based Algorithms**: Employed for calculating profits and generating efficient discharge schedules.
 
-## Installation and Usage
-Detailed instructions on setting up the environment, installing dependencies, and running the model.
+## License
+This project is licensed under the Creative Commons Attribution 3.0 International License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## How to Cite
+If you use this project or its contents in your research or project, please cite it as follows:
+
+Author: Tyler Sims
+Title: Battery LSTM Optimization
+Year: 2023
+URL: https://github.com/tsims2/battery-lstm-optimization/
 
 ## Contact Information
 Tyler Sims - tyler.jsims97@gmail.com
